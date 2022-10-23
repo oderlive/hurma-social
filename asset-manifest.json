@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/%7Bhurma-social%7D/static/css/main.047fd95a.css",
-    "main.js": "/%7Bhurma-social%7D/static/js/main.d7b107c9.js",
+    "main.js": "/%7Bhurma-social%7D/static/js/main.24f580f9.js",
     "static/media/logo.svg": "/%7Bhurma-social%7D/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/%7Bhurma-social%7D/index.html",
     "main.047fd95a.css.map": "/%7Bhurma-social%7D/static/css/main.047fd95a.css.map",
-    "main.d7b107c9.js.map": "/%7Bhurma-social%7D/static/js/main.d7b107c9.js.map"
+    "main.24f580f9.js.map": "/%7Bhurma-social%7D/static/js/main.24f580f9.js.map"
   },
   "entrypoints": [
     "static/css/main.047fd95a.css",
-    "static/js/main.d7b107c9.js"
+    "static/js/main.24f580f9.js"
   ]
 }
